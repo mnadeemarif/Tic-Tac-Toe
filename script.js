@@ -109,4 +109,3 @@ for (let i = 1; i <= 3; i++) {
     document.getElementById(box).addEventListener('click', play);
   }
 }
-console.log(map.size);
