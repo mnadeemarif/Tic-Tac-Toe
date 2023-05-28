@@ -68,9 +68,10 @@ nav a[aria-current='page'] {
 
 main {
   padding: 1rem;
-  width: 50%;
-  margin: 0 auto;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
